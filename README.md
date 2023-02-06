@@ -1,3 +1,1 @@
-# ProjectStat[Data_Train_gitpod.csv](https://github.com/WavePPG/ProjectStat/files/10661317/Data_Train_gitpod.csv)
-[Data_Train_gitpod (2).txt](https://github.com/WavePPG/ProjectStat/files/10661401/Data_Train_gitpod.2.txt)
-[Data_Train_gitpod (2).csv](https://github.com/WavePPG/ProjectStat/files/10661416/Data_Train_gitpod.2.csv)
+https://docs.google.com/spreadsheets/d/15ULs5bUiI8W1edDpMbdOCZiFUQ_F6DJbXuEYrFr7hNc/edit?usp=sharing
