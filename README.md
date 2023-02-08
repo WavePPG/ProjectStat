@@ -6,6 +6,10 @@
 [data IndiGo - Sheet1.csv](https://github.com/WavePPG/ProjectStat/files/10684921/data.IndiGo.-.Sheet1.csv)
 [data_Trujet_-_Sheet1.csv](https://github.com/WavePPG/ProjectStat/files/10685467/data_Trujet_-_Sheet1.csv)
 [data_SpiceJet_-_Sheet1.csv](https://github.com/WavePPG/ProjectStat/files/10685468/data_SpiceJet_-_Sheet1.csv)
-[data_Multiple_carriers_Premium_economy_-_Sheet1_1.csv](https://github.com/WavePPG/ProjectStat/files/10685469/data_Multiple_carriers_Premium_economy_-_Sheet1_1.csv)
 [Air_India_-_Sheet1.csv](https://github.com/WavePPG/ProjectStat/files/10685471/Air_India_-_Sheet1.csv)
+[Jet Airways Business - Sheet1.csv](https://github.com/WavePPG/ProjectStat/files/10685790/Jet.Airways.Business.-.Sheet1.csv)[Multiple_carriers_-_Sheet1.csv](https://github.com/WavePPG/ProjectStat/files/10686077/Multiple_carriers_-_Sheet1.csv)
+[jet airways - Sheet1.csv](https://github.com/WavePPG/ProjectStat/files/10685792/jet.airways.-.Sheet1.csv)
+[Multiple_carriers_Premium_economy_-_Sheet1.csv](https://github.com/WavePPG/ProjectStat/files/10686110/Multiple_carriers_Premium_economy_-_Sheet1.csv)
 
+[Vistara_-_Sheet1.csv](https://github.com/WavePPG/ProjectStat/files/10686146/Vistara_-_Sheet1.csv)
+[Vistara_Premium_economy_-_Sheet1.csv](https://github.com/WavePPG/ProjectStat/files/10686155/Vistara_Premium_economy_-_Sheet1.csv)
